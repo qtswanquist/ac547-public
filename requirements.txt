@@ -1,0 +1,9 @@
+numpy~=2.3.1
+pandas~=2.3.1
+scikit-learn~=1.7.0
+matplotlib~=3.10.3
+seaborn~=0.13.2
+statsmodels~=0.14.5
+openpyxl~=3.1.5
+yfinance~=0.2.65
+xgboost~=3.1.1
