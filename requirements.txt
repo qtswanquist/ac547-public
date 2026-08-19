@@ -1,0 +1,25 @@
+# AC547 course packages.
+# Install with: pip install -r requirements.txt
+
+# Numerical computation and data frames
+numpy~=2.3.2
+pandas~=2.3.3
+
+# Statistics and modeling
+scipy~=1.18.0
+statsmodels~=0.14.6
+scikit-learn~=1.7.2
+xgboost~=3.1.3
+
+# Visualization
+matplotlib~=3.10.5
+seaborn~=0.13.2
+
+# Reading and writing Excel files
+openpyxl~=3.1.5
+
+# Jupyter notebook kernel (required to run .ipynb files in VS Code)
+ipykernel~=7.3.0
+
+# Only needed for other_course_examples
+yfinance~=1.5.2

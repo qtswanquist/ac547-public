@@ -1,0 +1,15 @@
+# Published to the student repo as .gitignore (see .publicinclude).
+# Keeps the Source Control panel showing real changes instead of thousands
+# of environment and cache files.
+
+# The Python virtual environment created by "Python: Create Environment"
+.venv/
+
+# Caches that Python and Jupyter write while running code
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Operating system clutter
+.DS_Store
+Thumbs.db
