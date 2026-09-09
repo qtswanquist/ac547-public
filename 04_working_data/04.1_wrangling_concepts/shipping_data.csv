@@ -1,0 +1,13 @@
+invoice,attribute,value
+1001,shipping_number,A18292B607
+1001,shipping_datetime,Feb-7-2026 8am
+1001,shipping_receiving_datetime,2/10/26 10am
+1001,weight,50.7
+1002,shipping_number,G61812S059
+1002,shipping_datetime,May-14-2026 6pm
+1002,shipping_receiving_datetime,5/20/26 2pm
+1002,weight,""
+1003,shipping_number,T76351L582
+1003,shipping_datetime,Oct-22-2026 4pm
+1003,shipping_receiving_datetime,11/2/26 8am
+1003,weight,18.32

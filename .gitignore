@@ -13,3 +13,7 @@ __pycache__/
 # Operating system clutter
 .DS_Store
 Thumbs.db
+
+# Files the diamonds exercise notebook writes while you run it
+04_working_data/04.2_diamonds_exercise/diamonds_char.txt
+04_working_data/04.2_diamonds_exercise/diamonds_prices.csv

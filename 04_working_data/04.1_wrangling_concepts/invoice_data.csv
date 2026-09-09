@@ -1,0 +1,6 @@
+invoice,invoice_datetime,amount,customer_name,shipping_point,quantity
+1001,2026-02-05 08:00:00,418.67,Madison C. ,True,5
+1002,2026-05-14 10:00:00,139.85,Cody S.,True,3
+1003,2026-10-21 12:00:00,88.13,Matt P.,False,1
+1002,2026-05-14 10:00:00,139.85,Cody S.,True,3
+1004,2026-08-31 09:30:00,125.89,Madison C.,True,2
